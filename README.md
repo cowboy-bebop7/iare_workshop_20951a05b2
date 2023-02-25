@@ -1,1 +1,1 @@
-# iare_workshop_20951a05b2
+fred's salary is 850$ per week.From his salary 11% is removed for federal  deductions 5.5%  for state deductions and 6.2% for company pension plan. if each of these deductions is taken as a percent of fred's gross salary, what is net salary for a four week period?
